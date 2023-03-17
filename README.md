@@ -1,4 +1,3 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/mahmoud-elezaby/)
 <h1 align="center">Hi 👋, I'm mahmoud alezaby</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align='right' alt='ciding' width='400' src='https://cdn-gigdb.nitrocdn.com/odwqOnCbjsztNEGqsEeeEiSeGqccZrur/assets/images/optimized/rev-d6e5fa8/wp-content/uploads/2021/05/Gc-Digital-Coding.gif'/>
